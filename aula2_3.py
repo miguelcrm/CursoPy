@@ -7,8 +7,8 @@ print(12, 34, sep='.')
 print(56, 78, sep ="-")
 
 ''' Sep = Separador
-    Pode ser usado para substituir a sua escolha qualquer 
-    espaço na saída Print.
+    Pode ser usado para substituição de qualquer símbolo
+    a sua escolha
 '''
 
 # Elemento de saída = Print
