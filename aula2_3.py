@@ -8,7 +8,7 @@ print(56, 78, sep ="-")
 
 ''' Sep = Separador
     Pode ser usado para substituir a sua escolha qualquer 
-    espaço na saída Print.
+    espaço na saída Print
 '''
 
 # Elemento de saída = Print
