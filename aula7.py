@@ -1,4 +1,5 @@
-# Variáveis são usadas para armazenar algo na memória do computador.
+''' Variáveis são usadas para armazenar algo na memória do 
+computador.'''
 
 # E depois ela retorna atráves da saída.
 
@@ -6,6 +7,8 @@
 
 nome_completo = 'Miguel Camargo Raposo de Melo'
 
+''' Quando separamos palavras com ''_'' chamamos isso de 
+snack case '''
 
 print('Nome:', nome_completo)   # Elementos de saída e os valores
                                 # Armazenados
@@ -37,6 +40,6 @@ print( 'Salário Bruto Final:', final)
 
 ''' Aqui está um exemplo de armazenamento de informações 
     em uma variável e seu retorno, de modo simples e fácil
-    podemos brincar com isso alterndo o código e ele te
+    podemos brincar com isso alternando o código e ele te
     trará o resultado, com o nome da pessoa, o salário, suas
     despesas e seu salário bruto '''
