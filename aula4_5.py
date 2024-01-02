@@ -29,7 +29,7 @@ print(type(1.1), type(10), type(10 > 40), type('Camargo'))
 
 ''' Aula 5 '''
 
-# Tipo de dado bool (boolean)
+# Tipo de dado BOOL (boolean)
 # São estruturas de dados lógicas em um programa
 # Só terá duas possibilidades, sim ou não
 # Ou True e False 
