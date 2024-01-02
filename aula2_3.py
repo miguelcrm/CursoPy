@@ -19,7 +19,8 @@ print(66, 78, sep ="*", end=' = 5148\r\n')
 
 '''
 End = Final 
-Dita um simbolo ou o que quiser colocar no final. 
+Dita um simbolo ou o que quiser colocar no final da linha de
+código. 
 '''
 
 ''' Aula 3 '''
