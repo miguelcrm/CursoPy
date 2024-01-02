@@ -14,7 +14,7 @@ print(1050)
 # Desde que contenha pontos flutuantes ou seja casas decimais.
 
 print(1.1)
-print(1245.67)
+print(-1245.67)
 print(540.234)
 
 # type()
