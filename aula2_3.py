@@ -27,7 +27,7 @@ código.
 
 # Tipo de dados str ou string ("") ('')
 
-#String são textos e as aspas é o que dita a ser um dado String.
+#String são textos entre as aspas.
 
 print("Miguel Camargo Raposo de Melo")
 
