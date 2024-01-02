@@ -23,7 +23,11 @@ maior_de_idade = idade >= 18
 print('É maior de idade?', maior_de_idade)
 print('Idade:', idade, 'anos')
 
+altura = 1.82
+print('Altura:', str(altura) + 'm')
 #
+trabalha_com = 'Tecnologia'
+print('Trabalha com:', trabalha_com)
 
 # Sálario inicial e final 
 
