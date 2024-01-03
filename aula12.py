@@ -8,7 +8,7 @@ peso = 68
 
 # IMC = peso / (altura x altura)
 
-imc = peso / (altura ** 2)
+imc = peso / altura ** 2
 
 print('Nome:', nome)
 print('Altura:', altura)
