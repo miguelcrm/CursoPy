@@ -12,7 +12,15 @@ imc = peso / altura ** 2
 # Alocação da formatação em uma variável
 # Utilizando ''{}'' conseguimos armazenar o valor da variável acima.
 
-saida = f'{nome} tem {altura} pesa {peso} e o seu IMC será de {imc} '
+saida = f'{nome} tem {altura} pesa {peso} e o seu IMC\r\nserá de {imc:.2f}'
+
+''' 
+Utilizando o :.nf você dita quantas casas demais terá a
+variável númerica ''.'' será o ponto utilizado na separação,
+''n'' corresponde números de casas que queira que apareça e
+''f'' a formatação
+
+'''
 
 print(saida)
 
