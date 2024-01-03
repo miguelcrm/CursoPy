@@ -20,6 +20,9 @@ variável númerica ''.'' será o ponto utilizado na separação,
 ''n'' corresponde números de casas que queira que apareça e
 ''f'' a formatação
 
+Podemos utilizar quando ocorre a separação com '','' também
+colocando a vírgula antes do ponto em :.
+
 '''
 
 print(saida)
