@@ -5,7 +5,7 @@ c = 2.55
 ''' Podemos colocar as variáveis com o metódo format para serem
 utilizadas como outra forma de saída '''
 
-string = 'a = {}, b = {}, c = {:.3f}'
+string = 'a = {nome1}, b = {nome2}, c = {nome3:.3f}'
 
 # Saída 
 formato = string.format(
