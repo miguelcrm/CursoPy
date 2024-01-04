@@ -7,4 +7,4 @@ linhas você quiser.
 ''' DocString '''
 
 # Python é uma linguagem dinâmica e forte. 
-# Tudo em Python é um objeto. 
+
