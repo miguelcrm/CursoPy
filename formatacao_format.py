@@ -8,6 +8,15 @@ utilizadas como outra forma de saída '''
 string = 'a = {}, b = {}, c = {:.3f}'
 
 # Saída 
-formato = string.format(a,b,c)
+formato = string.format(
+    nome1 = a,
+    nome2 = b,
+    nome3 = c)
 print(formato)
 
+''' 'NOME' = Será um parâmetro nomeado.
+    Parâmetro nomeado será um objeto.
+    Será usado em ordem.
+    E precisam também está em ''string'' que é a primeira
+    variável. 
+'''
