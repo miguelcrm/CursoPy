@@ -11,7 +11,9 @@ lho chamado ''Breakpoint''
 
     Após marca seu breakpoint e começar a depuração do seu códi
     go, ele irá abrir um pequeno painel de opções. E utilizando
-    ''Step Over'' ou ''Contornar'' 
+    ''Step Over'' ou ''Contornar'' ele irá pular linha de código
+    por linha de código conferindo e depurando seu programa parte
+    por parte ajudando o entendimento a códigos complexos. 
 '''
 condicao1 = True
 condicao2 = True
