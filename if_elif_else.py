@@ -12,5 +12,13 @@ if entrada == 'entrar' :
 elif entrada == 'sair' :
     print(f'Tudo pronto {nome}, você saiu da nossa lista!')
 
+elif entrada:
+    pass
+
 else:
     print('Você digitou incorretamente, digite novamente')
+
+''' O ''pass'' funciona como uma Elipsses = ''...'' 
+e como se tivesse um elif ali porém ele pula esse trecho do código
+entendendo que a instrução será repassada depois.
+'''
