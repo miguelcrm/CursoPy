@@ -48,3 +48,11 @@ elif senha_digitada != senha_registrada:
 
 else:
     print('Digite apenas ''E'' ou ''S''!')
+
+# Avaliação de curto circuito do and
+# Lembre que qualquer expressão False, ele retorna False.
+
+print(True and False and True)
+
+# No caso desse print, ele pulará o primeiro True e avalia apenas
+# o ''false''
