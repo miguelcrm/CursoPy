@@ -17,10 +17,10 @@
 '''
 entrada = input('[E]ntrar ou [S]air? ')
 
-if entrada == 'E' or entrada == 'e':
+if entrada == 'E':
     print('Entrar')
 
-elif entrada == 'S' or entrada == 's':
+elif entrada == 'S' :
     print('Sair')
 
 else:
