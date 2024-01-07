@@ -16,8 +16,5 @@ if intprimeiro > intsegundo:
 elif intprimeiro < intsegundo:
     print(f'O valor {intsegundo} é maior que o valor {intprimeiro}')
 
-elif primeiro_valor or segundo_valor == str:
-    print('Os valores não são válidos!')
-
 elif intprimeiro == intsegundo:
     print('Os valores são iguais.')
