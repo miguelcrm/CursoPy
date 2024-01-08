@@ -19,8 +19,13 @@
     Índices negativos: começamos contar do -1
 
     '''
+'''
 
-nome = 'Miguel'
+Variável utilizado até o próximo bloco de código:
+
+ nome = 'Miguel'
+
+'''
 
 # Prints com indíces
 
@@ -36,19 +41,50 @@ nome = 'Miguel'
 # Nesse print temos uma condição dizendo se ''g'' está entre letras
 # da variável nome.
 
+'''
 print('g' in nome)
 print('guel' in nome)
 
-# Retornando ''True'' e ''False'' na última condição.
+'''
 
-# O operador NOT IN é o contrário significa ''Não está entre''
+# Retornando ''True''.
+
+# O operador NOT IN é ao contrário e significa ''Não está entre''
 # Ele irá conferir se a condição repassada não irá estar entre
 # a variável repassada. 
 
+'''
 print('g' not in nome)
+
+'''
+
 # Essa será a única condição ''False'' por ''g'' está entre as str
 # da variável ''nome''
 
+'''
+
+# Exemplo de um print como ''False''
+
 print('fael' not in nome)
 
-print('Hello')
+'''
+
+# Podemos fazer um pequeno jogo com esses operadores, por exemplo:
+# Se uma letra está ou não no nome escolhido.
+# Se por exemplo tivessemos Mayara com ''y'' e com ''i''.
+
+nome = input('Digite o nome desejado: ')
+encontrar = input('Digite o que deseja encontrar: ')
+
+if encontrar in nome:
+    print(f'A letra {encontrar} está em {nome}')
+else:
+    print(f'A letra {encontrar} não está em {nome}')
+
+
+
+
+
+
+
+
