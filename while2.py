@@ -4,8 +4,10 @@
 
 contador = 0
 
-while contador < 21:
+while contador < 31:
     print(contador)
     contador = contador + 1
+
+
 
 
