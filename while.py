@@ -26,13 +26,14 @@ while condicao:
 
 condicao = True
 
-while condicao:
-    nome = input('Digite seu nome: ')
+while condicao: # Enquanto condição for true
+    nome = input('Digite seu nome: ') # Digite um nome
     
-    if nome == 'sair' or nome == 'Sair':
-        break
-
-    print(f'Seu nome é: {nome}') 
+    if nome == 'sair' or nome == 'Sair': # Se o nome digitado
+        break # for sair ou Sair acabe o código.
+                # Se não
+    
+    print(f'Seu nome é: {nome}') # Imprima o nome digitado
     
 # Se usarmos o Debugger iremos ver como funciona o While.
 # Ele irá rodar trecho por trecho de código, e você irá perceber
